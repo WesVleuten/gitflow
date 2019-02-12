@@ -1,19 +1,14 @@
 # Git Flow
 
-- [Introduction](#introduction)
+For each programming project it is best practice to use a versioning tool like git. In this documenent I will outline on how to setup and use a program like git. The goal of this outline is to provide clairity and make sure everyone on a project is on the same page.
+
+## Table of contents
+
 - [How to setup git](#how-to-setup-git)
 - [Cloning a respository](#cloning-a-repository)
 - [Commits](#commits)
 - [Branches](#branches)
 - [Pull requests](#pull-requests)
-
-## Introduction
-
-For each programming project it is best practice to use a versioning tool like git. In this documenent I will outline on how to setup and use a program like git. The goal of this outline is to provide clairity and make sure everyone on a project is on the same page.
-
-
-[Back to top](#git-flow)
----
 
 ## How to setup git
 
@@ -23,13 +18,24 @@ I recommend GitHub Desktop. You can download it [here](https://desktop.github.co
 While you are installing you can login into your github account in the app by clicking "Sign in to Github.com", after you've signed in you're asked to configure git. Use your full name and email adress here, it is probably prefilled.
 After that you can click on finish and github desktop is installed!
 
+[back to top](#table-of-contents)
+
+---
+
 ## Cloning a repository
 
 In GitHub Desktop you can find a list of respositories, in this list search for the repository you want to download. By default it will store the repository in `C:\Users\<Your Username>\Documents\GitHub`.
 
+[back to top](#table-of-contents)
+
+---
 
 ## Commits
 For each change you make you would want to commit. Commiting and pushing ensures your changes will not be lost, the changes will be pushed onto github and stored. Please make sure you commit as often as you can and make the commit message descriptive
+
+[back to top](#table-of-contents)
+
+---
 
 ## Branches
 Everytime you start working on a feature of on a bugfix you want to make sure you're not on the master branch.
@@ -48,6 +54,9 @@ First you make sure your in the repository view.
 
 Make sure you're on the master branch, if you're not on the master branch you should go into the branch menu and select `master`.
 
+[back to top](#table-of-contents)
+
+---
 
 ## Pull Requests
 
@@ -67,3 +76,6 @@ On that new screen click on compare and select **YOUR** branch in the compare fi
 
 Now press the green `Create pull request` button and your pull request is ready for review!
 
+[back to top](#table-of-contents)
+
+---
