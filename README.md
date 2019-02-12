@@ -72,7 +72,9 @@ You now have created a branch!
 
 ## Pull Requests
 
-So, you've created your branch, made some commits and you're ready for everyone to see your great changes. So we will create a pull request.
+So, you've created your branch, made some commits and you're ready for everyone to see your great changes. So now we will create a pull request.
+
+*A pull request can also be called a merge request*
 
 Going to `https://github.com/WesVleuten/<projectname>/pulls` will show you the current pull requests on the project. Or when present on a repository page you can click here.
 
