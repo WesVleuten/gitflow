@@ -1,6 +1,6 @@
 # Git Flow
 
-For each programming project it is best practice to use a versioning tool like git. In this documenent I will outline on how to setup and use a program like git. The goal of this outline is to provide clairity and make sure everyone on a project is on the same page.
+For each programming project it is best practice to use a versioning tool like git. In this documenent I will outline on how to setup and use a program like git. The goal of this outline is to provide clairity and make sure everyone on a project uses the same standard
 
 ## Table of contents
 
