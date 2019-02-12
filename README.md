@@ -57,4 +57,9 @@ Click on `New pull request` this will redirect you to a new screen.
 
 ![Pull request screenshot](screenshot/pulls_list.jpg)
 
-On that new screen select your branch in the compare field.
+On that new screen click on compare and select **YOUR** branch in the compare field.
+
+![Pull request screenshot](screenshot/pulls_compareselect.jpg)
+
+Now press the green `Create pull request` button and your pull request is ready for review!
+
