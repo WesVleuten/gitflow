@@ -1,11 +1,11 @@
 # Git Flow
 
 - [Introduction](#introduction)
-- [How to setup git](#How-to-setup-git)
-- [Cloning a respository](#Cloning-a-repository)
-- [Commits](#Commits)
-- [Branches](#Branches)
-- [Pull requests](#Pull-Requests)
+- [How to setup git](#how-to-setup-git)
+- [Cloning a respository](#cloning-a-repository)
+- [Commits](#commits)
+- [Branches](#branches)
+- [Pull requests](#pull-requests)
 
 ## Introduction
 
@@ -19,7 +19,7 @@ I recommend GitHub Desktop. You can download it [here](https://desktop.github.co
 While you are installing you can login into your github account in the app by clicking "Sign in to Github.com", after you've signed in you're asked to configure git. Use your full name and email adress here, it is probably prefilled.
 After that you can click on finish and github desktop is installed!
 
-## Cloning a respository
+## Cloning a repository
 
 In GitHub Desktop you can find a list of respositories, in this list search for the repository you want to download. By default it will store the repository in `C:\Users\<Your Username>\Documents\GitHub`.
 
