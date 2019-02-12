@@ -11,6 +11,10 @@
 
 For each programming project it is best practice to use a versioning tool like git. In this documenent I will outline on how to setup and use a program like git. The goal of this outline is to provide clairity and make sure everyone on a project is on the same page.
 
+
+[Back to top](#git-flow)
+---
+
 ## How to setup git
 
 Installing git can be easy, but linking it to your github account can be a bit tricky. Here I'll outline on how to do both setup and config.
