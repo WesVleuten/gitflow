@@ -40,7 +40,9 @@ For each change you make you would want to commit. Commiting and pushing ensures
 ## Branches
 Everytime you start working on a feature of on a bugfix you want to make sure you're not on the master branch.
 
-WARNING: YOU CANNOT COMMIT CHANGES TO THE MASTER BRANCH
+WARNING: YOU SHOULT NOT COMMIT CHANGES TO THE MASTER BRANCH.
+
+You cannot push directly to the master branch.
 
 ### Naming
 When branching out from the master you want to descriptivly name the branch. If you're planning on creating a feature your branchname should start with `feature/`. And if you're planning on fixing bugs you start with `hotfix/`. When in doubt use feature.
@@ -50,9 +52,19 @@ The second part of the branchname should describe what you're planning on doing.
 ### Creation
 BEFORE YOU CREATE A NEW BRANCH: Make sure you don't have any remaining changes left on the branch you're currently on. GitHub Desktop should show `No local changes`.
 
-First you make sure your in the repository view.
+First you make sure your in the repository view. And click on the branch
 
-Make sure you're on the master branch, if you're not on the master branch you should go into the branch menu and select `master`.
+![Repository view](screenshot/branch_start.jpg)
+
+Here you'll find a list of your local branches. Click on `New branch` to create a new branch to work on.
+
+![Repository view](screenshot/branch_list.jpg)
+
+Here you need to enter a name using the naming scheme described above and click `Create Branch`.
+
+![Repository view](screenshot/branch_name.jpg)
+
+You now have created a branch!
 
 [back to top](#table-of-contents)
 
