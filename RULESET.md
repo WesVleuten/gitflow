@@ -17,6 +17,8 @@ Here you can find a condensed version of the [README.md](README.md)
 ## 3: Branch
 1. A branchname should always have the form of `feature/<name>` or `hotfix/<name>`.
 2. A branchname must be unique.
+3. A branchname may not contain special characters (except for `/`).
+4. A branchname may not contain uppercase characters.
 
 ## 4: Pull requests
 1. One will not create pull requests for someone elses branch.
