@@ -9,6 +9,7 @@ For each programming project it is best practice to use a versioning tool like g
 - [Commits](#commits)
 - [Branches](#branches)
 - [Pull requests](#pull-requests)
+- [FAQ](#faq)
 
 ## How to setup git
 
@@ -89,6 +90,24 @@ On that new screen click on compare and select **YOUR** branch in the compare fi
 ![Pull request screenshot](screenshot/pulls_compareselect.jpg)
 
 Now press the green `Create pull request` button and your pull request is ready for review!
+
+[back to top](#table-of-contents)
+
+---
+
+## FAQ
+
+Here are the most common issues and questions solved and answered.
+
+### Switching branches
+
+When switching branches any local changes will be transfered onto the switched to branch. However, this is not always possible, please be precausious and commit/stash/discard your changes before switching.
+
+### Discard local changes
+
+If you have made some changes you'd like to discard. You can right click your changes in github desktop and choose between discarding just the file you cliked or discrading all changes.
+
+![Discard changes](screenshot/discard_changes.jpg)
 
 [back to top](#table-of-contents)
 
