@@ -2,6 +2,8 @@
 
 For each programming project it is best practice to use a versioning tool like git. In this documenent I will outline on how to setup and use a program like git. The goal of this outline is to provide clairity and make sure everyone on a project uses the same standard
 
+**Ruleset can be found [here](RULESET.md)**
+
 ## Table of contents
 
 - [How to setup git](#how-to-setup-git)
