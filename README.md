@@ -34,7 +34,9 @@ In GitHub Desktop you can find a list of respositories, in this list search for 
 ---
 
 ## Commits
-For each change you make you would want to commit. Commiting and pushing ensures your changes will not be lost, the changes will be pushed onto github and stored. Please make sure you commit as often as you can and make the commit message descriptive
+For each change you make you would want to commit. Commiting and pushing ensures your changes will not be lost, the changes will be pushed onto github and stored. Please make sure you commit as often as you can and make the commit message descriptive.
+
+Please make sure that the files you add to the repository are not related to your IDE or compiled versions of the code.
 
 [back to top](#table-of-contents)
 
@@ -91,7 +93,7 @@ On that new screen click on compare and select **YOUR** branch in the compare fi
 
 ![Pull request screenshot](screenshot/pulls_compareselect.jpg)
 
-Now press the green `Create pull request` button and your pull request is ready for review!
+Now press the green `Create pull request` button, **provide a title and description** and press again on the green `Create pull request` button and then finally your pull request is ready for review!!
 
 [back to top](#table-of-contents)
 
