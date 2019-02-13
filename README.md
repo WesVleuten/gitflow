@@ -27,7 +27,10 @@ After that you can click on finish and github desktop is installed!
 
 ## Cloning a repository
 
-In GitHub Desktop you can find a list of respositories, in this list search for the repository you want to download. By default it will store the repository in `C:\Users\<Your Username>\Documents\GitHub`.
+In GitHub Desktop you can find a list of respositories, in this list search for the repository you want to download. By default it will store the repository in: 
+
+* Windows: `C:\Users\<Your Username>\Documents\GitHub`
+* macOS:`/Users/<Your Username>/Documents/GitHub`
 
 [back to top](#table-of-contents)
 
